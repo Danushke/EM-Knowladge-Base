@@ -4,7 +4,7 @@ Developing APIs for mobile applications at Elegant Media is backed by the packag
 
 ## Where To Start?
 
-[Laravel API Helpers](https://bitbucket.org/elegantmedia/laravel-api-helpers/src/master/) is automatically installed when you create your [Oxygen](https://bitbucket.org/elegantmedia/oxygen-laravel/src/master/) project. Follow the steps below to get the API up on your project.
+[Laravel API Helpers](https://bitbucket.org/elegantmedia/laravel-api-helpers/src/master/) is automatically installed when you create your [Oxygen](https://github.com/Danushke/oxygen-laravel/src/master/) project. Follow the steps below to get the API up on your project.
 
 ### Check your .env configurations
 
